@@ -1,1 +1,6 @@
 site_name: My Docs
+pages: 
+- Home: 'index.md'
+- TimePass: 'tp.md'
+theme: readthedocs
+
