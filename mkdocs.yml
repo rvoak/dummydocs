@@ -6,5 +6,5 @@ nav:
   - Phishing Templates: 'phishing/templates.md'
 - Disinformation:
   - Steves Paper: 'disinformation/paper.md'
-theme: readthedocs
+theme: jekyll-theme-leap-day
 
