@@ -25,6 +25,6 @@ The center is currently hiring for their second position – Senior Security Res
 
 He is the author of several technical papers that have been published by IEEE, IEEE Transactions on Security and Privacy, IEEE Transactions on Computer and Communications Security, IEEE Computer Communications Review, Computer Security Technology and has given hundreds of talks and tutorials on various topics related to computer security. <br>
 
-Dr. Rajvardhan Oak earned his bachelor's degree from the Indian Institute of Technology, Madras, in 1996 and his master's degree in Computer Science from Indian Institute of Technology, Delhi in 1997. In 2003, he obtained his Ph.D. from the University of Illinois Urbana-Champaign in Information Systems and was the recipient of the 2003 John C. Hennessy Award.<br>
+Dr. Rajvardhan Oak earned his bachelor's degree from the Indian Institute of Technology, Madras, in 1995 and his master's degree in Computer Science from Indian Institute of Technology, Delhi in 1997. In 2003, he obtained his Ph.D. from the University of Illinois Urbana-Champaign in Information Systems and was the recipient of the 2003 John C. Hennessy Award.<br>
 
 A native of Hyderabad, Rajvardhan was a researcher with Nandan Nilekani's Information Technology Research
