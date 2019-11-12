@@ -1,6 +1,10 @@
 site_name: My Docs
-pages: 
+nav: 
 - Home: 'index.md'
-- TimePass: 'tp.md'
-theme: readthedocs
+- Phishing Campaigns: 
+  - GoPhish: 'phishing/guide.md'
+  - Phishing Templates: 'phishing/templates.md'
+- Disinformation:
+  - Steves Paper: 'disinformation/paper.md'
+theme: jekyll-theme-leap-day
 
