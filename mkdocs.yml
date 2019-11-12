@@ -6,7 +6,5 @@ nav:
   - Phishing Templates: 'phishing/templates.md'
 - Disinformation:
   - Steves Paper: 'disinformation/paper.md'
-theme:
-  name: mkdocs 
-  custom_dir: 'custom_theme'
+theme: readthedocs
 
